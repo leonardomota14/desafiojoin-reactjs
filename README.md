@@ -7,8 +7,8 @@ Aplicação que permite visualizar as pessoas cadastradas, dependentes e associa
 
 ## Passos para iniciar o projeto
 - Baixe e instale o [NodeJS](https://nodejs.org/en/)
-- Clone este projeto executando <code>git clone git@github.com/leonardomota14/desafiojoin-reactjs.git</code> ou faça o [download do zip](https://github.com/leonardomota14/desafiojoin-reactjs/archive/refs/heads/main.zip)
-- Entre no diretório **desafiojoin-frontend** usando um terminal e execute <code>cd desafiojoin-frontend</code>
+- Clone este projeto executando <code>git clone https://github.com/leonardomota14/desafiojoin-reactjs.git</code> ou faça o [download do zip](https://github.com/leonardomota14/desafiojoin-reactjs/archive/refs/heads/master.zip)
+- Entre no diretório **desafiojoin-reactjs** usando um terminal e execute <code>cd desafiojoin-reactjs</code>
 - Com o NPM instalado, execute:
 - <code>npm install</code>
 - <code>npm start</code>
